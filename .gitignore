@@ -1,0 +1,77 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Cython build directories
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor configurations
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Local configuration files
+*.env
+*.dotenv
+
+# Log files
+*.log
+
+# Docker files
+docker-compose.override.yml
+
+# Environment variable files
+*.env
+*.venv
+
+# Python version management
+.python-version
+
+# PyCharm
+.idea/
+
+# PyInstaller
+*.spec
+
+# Tox
+.tox/
+.nox/
+.coverage/
+
+# Pylint
+pylint-report.txt
+pylint-global.rc
+
+# Sphinx documentation
+docs/_build/
+
+# VSCode workspace settings
+.vscode/settings.json
+
+# MacOS Finder files
+.DS_Store
+
+# Windows Thumbs.db and Desktop.ini
+Thumbs.db
+Desktop.ini

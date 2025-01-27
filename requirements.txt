@@ -1,0 +1,6 @@
+boto3
+datetime
+pymongo
+celery 
+python-dotenv
+pandas
